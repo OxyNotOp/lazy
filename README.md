@@ -1,6 +1,6 @@
 # CatUserbot / PepeCat
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OxyNotOp/lazycat)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OxyNotOp/lazy)
 
 
 A simple Telegram userbot based on Telethon .
